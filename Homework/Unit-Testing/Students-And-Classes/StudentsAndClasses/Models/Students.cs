@@ -6,13 +6,13 @@ namespace StudentsAndClasses.Models
     public class Students:IStudent
     {
         private string name;
-        private static int counter = 1000;
-        private int studentID;
+        private const int minStudentID = 1000;
 
         public Students(string name)
         {
             this.Name = name;
-            this.StudentID = studentID;
+            this.StudentID = minStudentID;
+            this.School = null;
         }
 
         public string Name
@@ -31,24 +31,14 @@ namespace StudentsAndClasses.Models
             }
         }
 
-        public int StudentID
-        {
-            get
-            {
-                return this.studentID;
-            }
-            private set
-            {
-                this.studentID = counter;
-                counter++;
-            }
-        }
+        public int StudentID { get; internal set; }
+        public School School { get; private set; }
 
         public void JoinCourse(ICourse course)
         {
             if (course == null)
             {
-                throw new ArgumentNullException("This course does not eist!");
+                throw new ArgumentNullException("This course does not exist!");
             }
             course.AddStudent(this);
         }
@@ -58,6 +48,10 @@ namespace StudentsAndClasses.Models
             if (course == null)
             {
                 throw new ArgumentNullException("This course does not eist!");
+            }
+            if (course.StudentsInCourse.IndexOf(this) < 0)
+            {
+                throw new ArgumentException("This student is not attempting the course, therefore it san not leave it!");
             }
             course.RemoveStudent(this); 
         }

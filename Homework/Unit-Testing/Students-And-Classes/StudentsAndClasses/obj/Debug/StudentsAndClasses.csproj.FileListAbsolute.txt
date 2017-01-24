@@ -1,1 +1,6 @@
 C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\bin\Debug\StudentsAndClasses.exe.config
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\bin\Debug\StudentsAndClasses.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\bin\Debug\StudentsAndClasses.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\obj\Debug\StudentsAndClasses.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\obj\Debug\StudentsAndClasses.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses\obj\Debug\StudentsAndClasses.pdb

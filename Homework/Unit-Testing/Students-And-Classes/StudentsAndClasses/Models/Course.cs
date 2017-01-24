@@ -7,20 +7,22 @@ using System.Threading.Tasks;
 
 namespace StudentsAndClasses.Models
 {
-    class Course:ICourse
+    public class Course:ICourse
     {
         private IList<IStudent> studentsInCourse;
         private const int maxStudentsInCourse = 30;
+        private School school;
         public Course(string name)
         {
             this.Name = name;
             this.studentsInCourse = new List<IStudent>();
             this.StudentsInCourse = studentsInCourse;
+            School = null;
         }
 
         public string Name { get; set; }
         public IList<IStudent> StudentsInCourse { get; set; }
-
+        public School School { get; internal set; }
         public void AddStudent(IStudent student)
         {
             if (this.StudentsInCourse.Count == Course.maxStudentsInCourse)
