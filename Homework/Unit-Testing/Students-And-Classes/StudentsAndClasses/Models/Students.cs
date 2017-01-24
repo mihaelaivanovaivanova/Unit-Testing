@@ -32,7 +32,7 @@ namespace StudentsAndClasses.Models
         }
 
         public int StudentID { get; internal set; }
-        public School School { get; private set; }
+        public School School { get; internal set; }
 
         public void JoinCourse(ICourse course)
         {

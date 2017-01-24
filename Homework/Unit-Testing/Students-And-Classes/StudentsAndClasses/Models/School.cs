@@ -11,7 +11,6 @@ namespace StudentsAndClasses.Models
     {
         private const int minStudentID = 1000;
         private const int maxStudentID = 9999;
-        private readonly int maxCapacity = minStudentID - maxStudentID;
 
         private int uniqueNumberCounter;
         public School()
@@ -31,7 +30,7 @@ namespace StudentsAndClasses.Models
                 throw new ArgumentNullException("Student can not be null!");
             }
 
-            if (this.StudentsInSchool.Count == maxCapacity)
+            if (this.StudentsInSchool.Count == 8999)
             {
                 throw new ArgumentException("The school exceeded its limit. No more students can be added!");
             }
@@ -60,9 +59,34 @@ namespace StudentsAndClasses.Models
 
             if (!this.StudentsInSchool.Contains(student))
             {
-                throw new ArgumentException("The student does not have such student, therefore it can not be removed!");
+                throw new ArgumentException("The school does not have such student, therefore it can not be removed!");
             }
             this.StudentsInSchool.Remove(student);
+        }
+
+        public void AddCourse(Course course)
+        {
+            if (course == null)
+            {
+                throw new ArgumentNullException("Course can not be null!");
+            }
+
+            this.CoursesInSchool.Add(course);
+            course.School = this;
+        }
+
+        public void RemoveCourse(Course course)
+        {
+            if (course == null)
+            {
+                throw new ArgumentNullException("Course can not be null!");
+            }
+
+            if (!this.CoursesInSchool.Contains(course))
+            {
+                throw new ArgumentException("The school does not have such course, therefore it can not be removed!");
+            }
+            this.CoursesInSchool.Remove(course);
         }
 
     }

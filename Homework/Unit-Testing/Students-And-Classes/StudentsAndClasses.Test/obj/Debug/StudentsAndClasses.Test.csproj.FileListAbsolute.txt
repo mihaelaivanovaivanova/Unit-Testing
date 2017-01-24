@@ -1,0 +1,8 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\bin\Debug\StudentsAndClasses.Test.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\bin\Debug\StudentsAndClasses.Test.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\obj\Debug\StudentsAndClasses.Test.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\obj\Debug\StudentsAndClasses.Test.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\obj\Debug\StudentsAndClasses.Test.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\bin\Debug\StudentsAndClasses.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\bin\Debug\StudentsAndClasses.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Students-And-Classes\StudentsAndClasses.Test\bin\Debug\MSTestExtensions.dll
