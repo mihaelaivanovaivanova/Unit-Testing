@@ -1,0 +1,32 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll.config
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Unit-Testing\Poker\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll.config
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\MSTestExtensions.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Homework\Test Driven Development\Poker\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
