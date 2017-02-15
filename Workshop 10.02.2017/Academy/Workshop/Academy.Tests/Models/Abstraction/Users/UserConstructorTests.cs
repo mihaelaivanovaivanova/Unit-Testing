@@ -19,5 +19,14 @@ namespace Academy.Tests.Models.Abstraction.Users
             //Act and Assert
             Assert.AreEqual("pesho", user.Username);
         }
+
+        [TestCase("us")]
+        [TestCase("very very very very long user name")]
+
+        public void Constructor_WhenNameIsNotValid_ShouldThrowArgumentException(string username)
+        {
+            //Arrange, Act, Assert
+            Assert.Throws<ArgumentException>(() => new UserMock(username));
+        }
     }
 }
