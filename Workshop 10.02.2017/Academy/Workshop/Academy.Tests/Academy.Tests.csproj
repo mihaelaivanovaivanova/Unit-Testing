@@ -63,6 +63,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Commands\Adding\AddStudentToSeasonCommands\ConstructorTests.cs" />
+    <Compile Include="Commands\Adding\AddStudentToSeasonCommands\ExecuteTests.cs" />
+    <Compile Include="Commands\Adding\Mocks\AddStudentToSeasonCommandMock.cs" />
     <Compile Include="Core\Factory\AcademyFactorys\CreateLectureResourceTests.cs" />
     <Compile Include="Models\Abstraction\Mocks\UserMock.cs" />
     <Compile Include="Models\Abstraction\Users\UserConstructorTests.cs" />
