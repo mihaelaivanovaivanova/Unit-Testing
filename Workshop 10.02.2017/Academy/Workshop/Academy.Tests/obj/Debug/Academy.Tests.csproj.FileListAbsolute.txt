@@ -1,0 +1,15 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Academy.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Academy.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Academy.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Moq.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Academy.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Moq.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy.Tests\obj\Debug\Academy.Tests.pdb

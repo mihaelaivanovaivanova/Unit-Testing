@@ -1,0 +1,6 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\bin\Debug\Academy.exe.config
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\bin\Debug\Academy.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\bin\Debug\Academy.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\obj\Debug\Academy.exe
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Workshop 10.02.2017\Academy\Workshop\Academy\obj\Debug\Academy.pdb
