@@ -1,0 +1,5 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Exams\Exam 08.2016\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Exams\Exam 08.2016\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Exams\Exam 08.2016\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Exams\Exam 08.2016\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\Exams\Exam 08.2016\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb
