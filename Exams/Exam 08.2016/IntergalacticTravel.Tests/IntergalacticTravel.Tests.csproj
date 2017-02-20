@@ -101,11 +101,13 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="BusinessOwnerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResourceFactoryTests.cs" />
     <Compile Include="TeleportStations\Mock\ExtensionTeleportStation.cs" />
     <Compile Include="TeleportStations\TeleportStationTests.cs" />
     <Compile Include="UnitsFactoryTests.cs" />
+    <Compile Include="UnitTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
