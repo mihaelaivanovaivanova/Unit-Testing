@@ -1,0 +1,13 @@
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.pdb
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.dll
+C:\Users\Mihaela\Desktop\C#\UNIT TESTING\Unit-Testing\EXAM 16.02.2017\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.pdb
